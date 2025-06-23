@@ -1,5 +1,9 @@
 # 💫 About Me:
-🎓 Programador en formación con una sólida base en lógica de programación y experiencia con lenguajes como Python, SQL y Java. Me caracterizo por una fuerte capacidad para resolver problemas de forma creativa, aprender rápidamente y adaptarme con facilidad a nuevos entornos de desarrollo.<br><br>🚀 Motivado por seguir creciendo profesionalmente, contribuir activamente a proyectos y ampliar continuamente mis habilidades técnicas dentro del apasionante mundo de la programación.
+🎓 **Programmer in training** with a solid foundation in programming logic and knowledge of languages such as **Python**, **SQL**, and **Java**. I also have skills in frameworks like **Spring Boot**, and in developing **Android applications with Kotlin**. I am known for my strong problem-solving skills, creative thinking, quick learning ability, and adaptability to new development environments.
+
+🚀 Motivated to keep growing professionally, actively contribute to projects, and continuously expand my technical skills within the exciting world of programming.
+
+
 
 
 ## 🌐 Socials:
