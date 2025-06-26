@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,py,kotlin,html,css,js)](https://skillicons.dev)
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,eclipse,androidstudio,git,github,mysql,postgresql,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,eclipse,spring,androidstudio,git,github,mysql,postgresql,postman)](https://skillicons.dev)
 
           
 
